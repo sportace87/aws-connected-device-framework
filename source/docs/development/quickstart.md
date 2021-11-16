@@ -38,7 +38,7 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.37.2/install.sh | b
 + initialize the project dependencies:
 
 ```sh
-> cd aws-connected-device-framework
+> cd aws-connected-device-framework/source
 aws-connected-device-framework> rush install
 aws-connected-device-framework> rush update
 ```
